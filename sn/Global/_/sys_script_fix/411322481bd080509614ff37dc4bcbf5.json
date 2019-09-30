@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "before": false,
+  "description": null,
+  "flush_cache": false,
+  "name": "DevopsTest",
+  "record_for_rollback": false,
+  "run_once": true,
+  "script": {
+    "____see": "sn\\Global\\Fix Script\\active_true\\DevopsTest.js"
+  },
+  "sys_class_name": "sys_script_fix",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-30 09:07:12",
+  "sys_id": "411322481bd080509614ff37dc4bcbf5",
+  "sys_mod_count": 1,
+  "sys_name": "DevopsTest",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_fix_411322481bd080509614ff37dc4bcbf5",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-30 09:08:17",
+  "unloadable": false
+}
